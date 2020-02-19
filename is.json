@@ -1,0 +1,394 @@
+[
+  {
+    "title": "Do czego służy kompilator? Omów proces kompilacji programu.",
+    "id": 1
+  },
+  {
+    "title": "Jak działa interpreter ? Omów wady i zalety na przykładzie konkretnego języka programowania.",
+    "id": 2
+  },
+  {
+    "title": "Co to są słowa kluczowe języka programowania? Podaj przykłady.",
+    "id": 3
+  },
+  {
+    "title": "Jakie znasz typy zmiennych (w wybranym języku programowania)? Omów przykłady użycia.",
+    "id": 4
+  },
+  {
+    "title": "Czy istnieją systemy nadawania nazw zmiennym? Podaj przykłady.",
+    "id": 5
+  },
+  {
+    "title": "Jakie znasz funkcje systemu operacyjnego?",
+    "id": 6
+  },
+  {
+    "title": "Do czego służy logiczna organizacja pamięci w systemach operacyjnych? Przedstaw zastosowanie i metody organizacji.",
+    "id": 7
+  },
+  {
+    "title": "Omów fizyczną organizację pamięci w systemach operacyjnych.",
+    "id": 8
+  },
+  {
+    "title": "Omów przykładowe systemy plików wykorzystywane w systemach Linux.",
+    "id": 9
+  },
+  {
+    "title": "Omów systemy plików dla systemów operacyjnych rodziny Windows.",
+    "id": 10
+  },
+  {
+    "title": "Czy wątek i proces oznaczają to samo z punktu widzenia systemu operacyjnego?",
+    "id": 11
+  },
+  {
+    "title": "Przedstaw modele wielowątkowości łączące wątki użytkownika z wątkami jądra. Omów wady i zalety prezentowanych rozwiązań.",
+    "id": 12
+  },
+  {
+    "title": "Przedstaw symbole podstawowych bramek logicznych i ich tabele prawdy.",
+    "id": 13
+  },
+  {
+    "title": "Wymień podstawowe właściwości układu kombinacyjnego.",
+    "id": 14
+  },
+  {
+    "title": "Przedstaw przykładowy układ sekwencyjny.",
+    "id": 15
+  },
+  {
+    "title": "Do czego służy tabela prawdy w układach logicznych? Podaj przykład.",
+    "id": 16
+  },
+  {
+    "title": "Podaj przykład zapisu funkcji logicznych z zastosowaniem Algebry Boole’a.",
+    "id": 17
+  },
+  {
+    "title": "Omów zastosowanie transmisji synchronicznej w układach cyfrowych.",
+    "id": 18
+  },
+  {
+    "title": "Do czego wykorzystuje się transmisje asynchroniczną w układach cyfrowych?",
+    "id": 19
+  },
+  {
+    "title": "Przedstaw różne rodzaje baz danych w raz z kryteriami podziału oraz przykładami baz danych.",
+    "id": 20
+  },
+  {
+    "title": "Omów model ERD ze względu na wybrane atrybuty i cechy związków.",
+    "id": 21
+  },
+  {
+    "title": "Przedstaw operacje w relacyjnym modelu bazy danych.",
+    "id": 22
+  },
+  {
+    "title": "Język SQL – omów wybrane operatory.",
+    "id": 23
+  },
+  {
+    "title": "Język SQL – do czego wykorzystuje się operacje grupowania?",
+    "id": 24
+  },
+  {
+    "title": "Co oznacza termin “integralność danych”? Podaj przykłady.",
+    "id": 25
+  },
+  {
+    "title": "Jakie znasz rozproszone bazy danych?",
+    "id": 26
+  },
+  {
+    "title": "Jakie informacje przechowuje plik grafiki wektorowej? Podaj przykładowe rozszerzenia plików.",
+    "id": 27
+  },
+  {
+    "title": "Co wyróżnia grafikę rastrową. Podaj przykładowe rozszerzenia plików.",
+    "id": 28
+  },
+  {
+    "title": "Omów sposoby modelowania oświetlenia w grafice komputerowej.",
+    "id": 29
+  },
+  {
+    "title": "Jakie metody pozwalają na modelowanie brył i powierzchni w grafice komputerowej?",
+    "id": 30
+  },
+  {
+    "title": "Jak modeluje się światło i barwę w grafice komputerowej?",
+    "id": 31
+  },
+  {
+    "title": "Przedstaw opis macierzowy przekształceń 2D i 3D w grafice komputerowej?",
+    "id": 32
+  },
+  {
+    "title": "Omów warstwy modelu OSI/ISO.",
+    "id": 33
+  },
+  {
+    "title": "Do czego wykorzystuje się model TCP/IP? Omów warstwy.",
+    "id": 34
+  },
+  {
+    "title": "Do czego służy router w sieci? Protokoły z której warstwy OSI/ISO są w nim zaimplementowane?",
+    "id": 35
+  },
+  {
+    "title": "Jak działają protokoły routingu? Omów zasadę działania wybranego protokołu routingu.",
+    "id": 36
+  },
+  {
+    "title": "Jakie znasz aktywne i pasywne elementy sieci komputerowej? Podaj przykłady.",
+    "id": 37
+  },
+  {
+    "title": "Omów zasadę działania DNS.",
+    "id": 38
+  },
+  {
+    "title": "Wyjaśnij użyteczność bramy (gateway) w konfiguracji urządzeń sieciowych.",
+    "id": 39
+  },
+  {
+    "title": "Wyjaśnij różnicę między protokołami TCP a UDP. Podaj przykłady zastosowań.",
+    "id": 40
+  },
+  {
+    "title": "Przedstaw wybrane usługi (dhcp, ftp, e-mail, www) i ich zastosowanie w sieciach komputerowych.",
+    "id": 41
+  },
+  {
+    "title": "Przedstaw wybrane protokoły (http, pop3, imap, smtp, ftp) i ich zastosowanie w sieciach komputerowych.",
+    "id": 42
+  },
+  {
+    "title": "Omów zasady adresacji urządzeń w sieci z wykorzystaniem IPv4.",
+    "id": 43
+  },
+  {
+    "title": "Omów metody uzyskiwania adresu IP urządzenia w sieciach z protokołem IPv6.",
+    "id": 44
+  },
+  {
+    "title": "Przedstaw analizę wybranego algorytmu sortowania ze względu na złożoność obliczeniową.",
+    "id": 45
+  },
+  {
+    "title": "Co opisuje “złożoność problemu”? Podaj przykładowe klasy złożoności problemów.",
+    "id": 46
+  },
+  {
+    "title": "Do czego wykorzystuje się algorytmy sortujące? Podaj przykłady algorytmów.",
+    "id": 47
+  },
+  {
+    "title": "Omów przykładowe algorytmy wyszukujące.",
+    "id": 48
+  },
+  {
+    "title": "Przedstaw metody projektowania algorytmów.",
+    "id": 49
+  },
+  {
+    "title": "Przestaw typy kolejek stosowane w programowaniu.",
+    "id": 50
+  },
+  {
+    "title": "Na czym polega test Turinga?",
+    "id": 51
+  },
+  {
+    "title": "W jakich dziedzinach informatyki stosuje się kryptografię? Podaj przykłady.",
+    "id": 52
+  },
+  {
+    "title": "Co oznacza termin “hermetyzacja danych” w programowaniu obiektowym?",
+    "id": 53
+  },
+  {
+    "title": "Czym jest “polimorfizm” w programowaniu obiektowym?",
+    "id": 54
+  },
+  {
+    "title": "Omów kreatywne wzorce projektowe w Informatyce.",
+    "id": 55
+  },
+  {
+    "title": "Scharakteryzuj strukturalne wzorce projektowe używane w Informatyce.",
+    "id": 56
+  },
+  {
+    "title": "Przedstaw przykładowe czynnościowe wzorce projektowe stosowane w Informatyce.",
+    "id": 57
+  },
+  {
+    "title": "Omów mechanizmy stosowane do synchronizacji wątków.",
+    "id": 58
+  },
+  {
+    "title": "Do czego wykorzystuje się wyrażenia regularne? Podaj przykład wyrażenia regularnego.",
+    "id": 59
+  },
+  {
+    "title": "Kiedy warto zastosować bazy danych NoSQL?",
+    "id": 60
+  },
+  {
+    "title": "Przedstaw zasadę programowania funkcyjnego.",
+    "id": 61
+  },
+  {
+    "title": "Do czego służą wyjątki w programowaniu?",
+    "id": 62
+  },
+  {
+    "title": "Omów różnicę między interfejsem a klasą abstrakcyjną.",
+    "id": 63
+  },
+  {
+    "title": "Podaj przykład zastosowania wskaźnik oraz referencji. Omów różnice.",
+    "id": 64
+  },
+  {
+    "title": "Co oznacza termin “dziedziczenie” w programowaniu obiektowym?",
+    "id": 65
+  },
+  {
+    "title": "Do czego służą konstruktory i destruktory?",
+    "id": 66
+  },
+  {
+    "title": "Do czego wykorzystywana jest Anonimowa klasa wewnętrzna i jaki jest jej zakres?",
+    "id": 67
+  },
+  {
+    "title": "Podaj przykład zastosowania gniazd sieciowych (sockets) w programowaniu.",
+    "id": 68
+  },
+  {
+    "title": "Opisz proces tworzenia połączenia sieciowego klienta z wykorzystaniem mechanizmu gniazd sieciowych.",
+    "id": 69
+  },
+  {
+    "title": "Jaka jest różnica między gniazdami TCP a UDP? 71. Do czego służą testy jednostkowe?",
+    "id": 70
+  },
+  {
+    "title": "Do czego służą testy integracyjne?",
+    "id": 71
+  },
+  {
+    "title": "Omów RESTful Webservices – format wymiany danych w aplikacjach webowych.",
+    "id": 72
+  },
+  {
+    "title": "Omów format JSON – służący do wymiany danych w aplikacjach webowych.",
+    "id": 73
+  },
+  {
+    "title": "W jakim celu stosuje się kontrolę wersji oprogramowania?",
+    "id": 74
+  },
+  {
+    "title": "Co opisuje termin “Programowanie zwinne”?",
+    "id": 75
+  },
+  {
+    "title": "Omów modele cyklu życia oprogramowania.",
+    "id": 76
+  },
+  {
+    "title": "Do czego służą kontenery aplikacyjne?",
+    "id": 77
+  },
+  {
+    "title": "Jaka jest różnica między klasą a obiektem klasy?",
+    "id": 78
+  },
+  {
+    "title": "Co odróżnia metodę od funkcji?",
+    "id": 79
+  },
+  {
+    "title": "Do czego wykorzystuje się przeciążanie metod i operatorów?",
+    "id": 80
+  },
+  {
+    "title": "Do czego wykorzystywany jest język UML?",
+    "id": 81
+  },
+  {
+    "title": "Co oznacza skrót API? Do czego jest wykorzystywane?",
+    "id": 82
+  },
+  {
+    "title": "Jakie znasz metody kompresji obrazów? Podaj przykłady.",
+    "id": 83
+  },
+  {
+    "title": "Do czego służą systemy ekspertowe? Podaj przykłady systemów.",
+    "id": 84
+  },
+  {
+    "title": "Jak działają systemy wspomagania decyzji? Podaj przykłady systemów.",
+    "id": 85
+  },
+  {
+    "title": "Omów wybrane metody wnioskowania w systemach sztucznej inteligencji.",
+    "id": 86
+  },
+  {
+    "title": "Omów logiczne metody reprezentacji wiedzy w systemach sztucznej inteligencji.",
+    "id": 87
+  },
+  {
+    "title": "Przedstaw metody reprezentacji wiedzy w systemach sztucznej inteligencji.",
+    "id": 88
+  },
+  {
+    "title": "Omów podstawowe pojęcia dotyczące sztucznej inteligencji.",
+    "id": 89
+  },
+  {
+    "title": "Sztuczna sieć neuronowa – definicja i zastosowanie.",
+    "id": 90
+  },
+  {
+    "title": "Jakie znasz metody uczenia się sztucznej sieci neuronowej?",
+    "id": 91
+  },
+  {
+    "title": "Przedstaw zalety zastosowania języków skryptowych.",
+    "id": 92
+  },
+  {
+    "title": "Omów metody poprawiania jakości obrazu.",
+    "id": 93
+  },
+  {
+    "title": "Omów mechanizmy architektury klient-serwer w programowaniu sieciowym.",
+    "id": 94
+  },
+  {
+    "title": "Omów metody wykrywania krawędzi w obrazach.",
+    "id": 95
+  },
+  {
+    "title": "Do czego wykorzystywana jest transformata Fouriera?",
+    "id": 96
+  },
+  {
+    "title": "Omów funkcję splotu w dziedzinie czasu.",
+    "id": 97
+  },
+  {
+    "title": "Omów funkcję splotu w dziedzinie częstotliwości.",
+    "id": 98
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "title": "Przedstaw mechanizm wyznaczania najlepszej trasy w sieciach komputerowych na podstawie wybranego protokołu routingu.",
+    "id": 1
+  },
+  {
+    "title": "Dlaczego stosuje się sztuczną inteligencję w systemach ekspertowych?",
+    "id": 2
+  },
+  {
+    "title": "Jaki znasz metody reprezentacji wiedzy dla sztucznej inteligencji?",
+    "id": 3
+  },
+  {
+    "title": "Przedstaw zastosowanie wybranego systemu wbudowanego.",
+    "id": 4
+  },
+  {
+    "title": "Omów metodykę projektowania systemów wbudowanych.",
+    "id": 5
+  },
+  {
+    "title": "Jak działa podpis cyfrowy? Podaj przykładowe algorytmy.",
+    "id": 6
+  },
+  {
+    "title": "Gdzie jest wykorzystywana kompresja danych? Omów przykładowe standardy kompresji (w tym obrazu i dźwięku).",
+    "id": 7
+  },
+  {
+    "title": "Jaką znasz definicję systemu operacyjnego? Podaj przykłady współczesnych systemów operacyjnych.",
+    "id": 8
+  },
+  {
+    "title": "Omów działanie przełącznika sieciowego na przykładzie prostej sieci LAN.",
+    "id": 9
+  },
+  {
+    "title": "Omów działanie routera na przykładowym schemacie sieci.",
+    "id": 10
+  },
+  {
+    "title": "Omów model ISO/OSI, przedstaw protokoły pracujące w poszczególnych jego warstwach.",
+    "id": 11
+  },
+  {
+    "title": "Czym jest RAID?",
+    "id": 12
+  },
+  {
+    "title": "Do czego wykorzystywana jest usługa DNS (Domain Name System)? Jak działa?",
+    "id": 13
+  },
+  {
+    "title": "Do czego służy FTP (File Transfer Protocol)? Jakie wykorzystuje porty i protokoły transmisji?",
+    "id": 14
+  },
+  {
+    "title": "Analiza sygnałów w dziedzinach czasu i częstotliwości – zastosowania.",
+    "id": 15
+  },
+  {
+    "title": "Sygnały synchronizacyjne w łączu teleinformatycznym.",
+    "id": 16
+  },
+  {
+    "title": "Filtracja cyfrowa – klasyfikacja i zastosowania.",
+    "id": 17
+  },
+  {
+    "title": "Omów FFT i DFT.",
+    "id": 18
+  },
+  {
+    "title": "Techniki rozpoznawania sygnałów zaszumionych.",
+    "id": 19
+  },
+  {
+    "title": "Zastosowanie dyskretnego przetwarzanie Hilberta.",
+    "id": 20
+  },
+  {
+    "title": "Pojęcia i jednostki miar stosowanych w teletechnice radiowej.",
+    "id": 21
+  },
+  {
+    "title": "Klasyfikacja technik modulacji pasmowych oraz kodowania kanałowego – zastosowanie schematu modulacyjno-kodowego.",
+    "id": 22
+  },
+  {
+    "title": "Techniki dostępu stosowane w łączu bezprzewodowym oraz klasyfikacja metody zwielokrotniania sygnałów radiowych.",
+    "id": 23
+  },
+  {
+    "title": "Modele propagacyjne oraz anteny mikrofalowe stosowane w systemach łączności bezprzewodowej.",
+    "id": 24
+  },
+  {
+    "title": "Architektura systemu komórkowego pracującego w domenie komutacji pakietów.",
+    "id": 25
+  },
+  {
+    "title": "Klasyfikacja systemów radiowego dostępu.",
+    "id": 26
+  },
+  {
+    "title": "Porównanie konstrukcji symetrycznych oraz koncentrycznych mediów miedzianych.",
+    "id": 27
+  },
+  {
+    "title": "Podstawowe pojęcia opisujące parametry miedzianych mediów przewodowych.",
+    "id": 28
+  },
+  {
+    "title": "Metody pomiaru podstawowych charakterystyk torów miedzianych.",
+    "id": 29
+  },
+  {
+    "title": "Klasyfikacja mediów światłowodowych stosowanych w teleinformatyce.",
+    "id": 30
+  },
+  {
+    "title": "Konstrukcje nadajników i odbiorników stosowanych w łączu teletransmisyjnym.",
+    "id": 31
+  },
+  {
+    "title": "Pojęcie bilansu mocy w łączu teletransmisyjnym małego i dużego zasięgu.",
+    "id": 32
+  },
+  {
+    "title": "Omów typy światłowodów i ich parametry.",
+    "id": 33
+  },
+  {
+    "title": "Omów podstawowe elementy aktywne systemów DWDM, CWDM.",
+    "id": 34
+  },
+  {
+    "title": "Diody półprzewodnikowe – podział diod ze względu na ich budowę i wykorzystanie, zasada działania, podstawowe parametry.",
+    "id": 35
+  },
+  {
+    "title": "Tranzystory bipolarne – zasada działania, parametry, charakterystyki.",
+    "id": 36
+  },
+  {
+    "title": "Tranzystory unipolarne MOS – zasada działania, parametry, charakterystyki.",
+    "id": 37
+  },
+  {
+    "title": "Fotodetektory – zasada działania podstawowych fotodetektorów, parametry, charakterystyki.",
+    "id": 38
+  },
+  {
+    "title": "Fotoemitery -diody LED, lasery – zasada działania, typy, parametry, charakterystyki.",
+    "id": 39
+  },
+  {
+    "title": "Główne parametry oraz cel stosowania wtórnika napięciowego w układach elektronicznych.",
+    "id": 40
+  },
+  {
+    "title": "Bramki logiczne – budowa i zasada działania w technologii CMOS.",
+    "id": 41
+  },
+  {
+    "title": "Budowa oscyloskopu elektronicznego – błędy występujące w metrologii.",
+    "id": 42
+  },
+  {
+    "title": "Rejestry w technice cyfrowej – typy, zasady działania.",
+    "id": 43
+  },
+  {
+    "title": "Liczniki asynchroniczne i synchroniczne – budowa i zasada działania.",
+    "id": 44
+  },
+  {
+    "title": "Synchroniczne detektory sekwencji – metodyka projektowania detektorów.",
+    "id": 45
+  },
+  {
+    "title": "Omówienie zasady działania wybranych układów kombinacyjnych (multipleksery, demultipleksery, sumator, układ odejmujący, mnożący, kodery, dekodery, transkodery, komparatory..)",
+    "id": 46
+  },
+  {
+    "title": "Pamięci półprzewodnikowe wykorzystywane w systemach komputerowych.",
+    "id": 47
+  },
+  {
+    "title": "Wzmacniacz operacyjny – budowa i podstawowe parametry.",
+    "id": 48
+  },
+  {
+    "title": "Wzmacniacze operacyjne wykorzystywane w układach prądu stałego – przykłady (wzmacniacz odwracający, nieodwracający, sumator, wzmacniacz różnicowy, układ logarytmujący, itp.).",
+    "id": 49
+  },
+  {
+    "title": "Wzmacniacze operacyjne wykorzystywane w układach prądu przemiennego – przykłady (filtry, generatory, przesuwniki fazy, prostowniki, ograniczniki, układy całkujące i różniczkujące, itp.)",
+    "id": 50
+  },
+  {
+    "title": "Wzmacniacz różnicowy – budowa, zasada działania, parametry.",
+    "id": 51
+  },
+  {
+    "title": "Analogowe filtry pasywne i aktywne – budowa, zasada działania, typy i rodzaje filtrów na wybranym przykładzie.",
+    "id": 52
+  },
+  {
+    "title": "Układy zasilające – prostowniki, stabilizatory – parametry, budowa i zasada działania.",
+    "id": 53
+  },
+  {
+    "title": "Filtry cyfrowe. Porównanie filtrów o skończonej oraz nieskończonej odpowiedzi impulsowej.",
+    "id": 54
+  },
+  {
+    "title": "Przetworniki analogowo-cyfrowe: architektury przetworników oraz główne parametry.",
+    "id": 55
+  },
+  {
+    "title": "Sztuczne sieci neuronowe – budowa i zasada działania pracy sieci neuronowej w procesie jej uczenia.",
+    "id": 56
+  },
+  {
+    "title": "Podział sztucznych sieci neuronowych.",
+    "id": 57
+  },
+  {
+    "title": "Wykorzystanie sieci neuronowych i metody ich realizacji.",
+    "id": 58
+  },
+  {
+    "title": "Systemy rozmyte – zasada działania i wykorzystanie systemów rozmytych.",
+    "id": 59
+  },
+  {
+    "title": "Rozmyte operatory logiczne – przykłady.",
+    "id": 60
+  },
+  {
+    "title": "Algorytmy genetyczne – zasada działania, operatory, wykorzystanie.",
+    "id": 61
+  },
+  {
+    "title": "Algorytmy stadne – zasada działania i wykorzystanie.",
+    "id": 62
+  },
+  {
+    "title": "Głębokie uczenie sieci neuronowych – cel takiego uczenia, wykorzystanie.",
+    "id": 63
+  },
+  {
+    "title": "Omów algorytm PSO (Particle Swarm Optimization).",
+    "id": 64
+  },
+  {
+    "title": "Jaka jest różnica między konwersją typów prostych, a rzutowaniem.",
+    "id": 65
+  },
+  {
+    "title": "Omów struktury danych, paradygmaty projektowania algorytmów, modele rozwiązywania problemów.",
+    "id": 66
+  },
+  {
+    "title": "Omów podstawowe konstrukcje języków algorytmicznych, rekurencja i typy programów rekurencyjnych oraz wyjaśnij co to jest analiza sprawności algorytmów.",
+    "id": 67
+  },
+  {
+    "title": "Omów dynamiczne struktury danych – listy, tablicowe implementacje list, stos, kolejki, sterty i kolejki priorytetowe, drzewa i ich reprezentacje.",
+    "id": 68
+  },
+  {
+    "title": "Na czym polega wielozadaniowość w systemach operacyjnych i jak jest realizowana?",
+    "id": 69
+  },
+  {
+    "title": "Wymień podstawowe funkcje i zastosowania systemów operacyjnych czasu rzeczywistego.",
+    "id": 70
+  },
+  {
+    "title": "Podaj podstawowe cechy i funkcje zapory ogniowej.",
+    "id": 71
+  },
+  {
+    "title": "Omów modele baz danych (relacyjne, obiektowe).",
+    "id": 72
+  },
+  {
+    "title": "Omów cechy języka SQL- DDL,DML, DCL, DIL.",
+    "id": 73
+  },
+  {
+    "title": "Podstawowe cechy transakcji w systemach baz danych.",
+    "id": 74
+  },
+  {
+    "title": "Omów metody utrzymywania integralności baz danych.",
+    "id": 75
+  },
+  {
+    "title": "Omów podstawowe cechy języków skryptowych.",
+    "id": 76
+  },
+  {
+    "title": "Omów różnice pomiędzy programowaniem strukturalnym, a obiektowym.",
+    "id": 77
+  },
+  {
+    "title": "Na czym polega enkapsulacja w programowaniu obiektowym.",
+    "id": 78
+  },
+  {
+    "title": "Co to jest polimorfizm w programowaniu obiektowym.",
+    "id": 79
+  },
+  {
+    "title": "Rodzaje dziedziczenia.",
+    "id": 80
+  },
+  {
+    "title": "Omów sprzętowe i programowe składniki sieci komputerowych.",
+    "id": 81
+  },
+  {
+    "title": "Omów adresację IP (v4, v6).",
+    "id": 82
+  },
+  {
+    "title": "Omów media transmisyjne wykorzystywane w sieciach komputerowych.",
+    "id": 83
+  },
+  {
+    "title": "Omów funkcje i cechy protokołów TCP i UDP.",
+    "id": 84
+  },
+  {
+    "title": "Omów tunelowanie w sieciach IP.",
+    "id": 85
+  },
+  {
+    "title": "Na czym polega bezpieczeństwo w sieciach IP?",
+    "id": 86
+  },
+  {
+    "title": "Transmisja szeregowa w komputerach PC. Omów interfejsy zewnętrzne i wewnętrzne wykorzystujące transmisję szeregową.",
+    "id": 87
+  },
+  {
+    "title": "Omów podstawowe bloki mikroprocesora.",
+    "id": 88
+  },
+  {
+    "title": "Omów podstawowe bloki komputera PC.",
+    "id": 89
+  },
+  {
+    "title": "Omów system przerwań.",
+    "id": 90
+  },
+  {
+    "title": "Omów na czym polega bezpośredni dostęp do pamięci (DMA).",
+    "id": 91
+  },
+  {
+    "title": "Omów podprogramy obsługi przerwań i funkcje stosu w systemach komputerowych.",
+    "id": 92
+  },
+  {
+    "title": "Czym różni się grafika wektorowa od rastrowej?",
+    "id": 93
+  },
+  {
+    "title": "Omów modele barw RGB, CMY, CMYK i podaj ich zastosowanie.",
+    "id": 94
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "title": "Omów budowę, parametry i przeznaczenie przekładników prądowych.",
+    "id": 1
+  },
+  {
+    "title": "Omów budowę, parametry i przeznaczenie przekładników napięciowych.",
+    "id": 2
+  },
+  {
+    "title": "Scharakteryzuj układy połączeń przekładników prądowych i ich przeznaczenie.",
+    "id": 3
+  },
+  {
+    "title": "Narysuj schematy i omów rodzaje układów pomiarowych, przeznaczonych do rozliczania zużycia energii elektrycznej przez różnych odbiorców.",
+    "id": 4
+  },
+  {
+    "title": "Omów rodzaje, budowę i przeznaczenie łączników stosowanych w sieciach SN i WN.",
+    "id": 5
+  },
+  {
+    "title": "Omów rodzaje strat mocy w transformatorach energetycznych i przyczyny ich powstawania.",
+    "id": 6
+  },
+  {
+    "title": "Omów rodzaje strat mocy w napowietrznych liniach elektroenergetycznych i przyczyny ich powstawania.",
+    "id": 7
+  },
+  {
+    "title": "Omów rodzaje strat mocy w kablowych liniach elektroenergetycznych i przyczyny ich powstawania.",
+    "id": 8
+  },
+  {
+    "title": "Przedstaw i omów sposoby kompensacji mocy biernej w sieciach przemysłowych.",
+    "id": 9
+  },
+  {
+    "title": "Omów przeznaczenie przekaźników pomiarowych i pomocniczych wykorzystywanych w elektroenergetycznej automatyce zabezpieczeniowej.",
+    "id": 10
+  },
+  {
+    "title": "Co oznacza wymóg selektywnego (wybiórczego) działania zabezpieczeń w instalacjach i sieciach elektroenergetycznych?",
+    "id": 11
+  },
+  {
+    "title": "Dokonaj klasyfikacji strat i zagrożeń spowodowanych przerwami w dostawie energii elektrycznej.",
+    "id": 12
+  },
+  {
+    "title": "W jaki sposób charakteryzuje się awaryjność głównych elementów sieci elektroenergetycznych?",
+    "id": 13
+  },
+  {
+    "title": "Scharakteryzuj techniczne i ekonomiczne warunki równoległej pracy transformatorów energetycznych.",
+    "id": 14
+  },
+  {
+    "title": "Omów sposoby i środki ograniczania wartości natężenia prądów zwarciowych w sieciach elektroenergetycznych.",
+    "id": 15
+  },
+  {
+    "title": "Scharakteryzuj dynamiczne i cieplne skutki przepływu prądów zwarciowych przez elementy sieci elektroenergetycznych.",
+    "id": 16
+  },
+  {
+    "title": "Wymień i omów kryteria doboru przekroju przewodów w instalacjach nn.",
+    "id": 17
+  },
+  {
+    "title": "Omów znaczenie merytoryczne obciążalności prądowej długotrwałej przewodów, podaj stosowne warunki i zależności.",
+    "id": 18
+  },
+  {
+    "title": "Wymień i omów środki techniczne ochrony przeciwporażeniowej – przed dotykiem pośrednim – ochrona dodatkowa oraz przed dotykiem bezpośrednim – ochrona podstawowa.",
+    "id": 19
+  },
+  {
+    "title": "Wykorzystując wykres wskazowy napięć i prądów dla typowego odbiorcy energii elektrycznej zdefiniuj współczynnik mocy i podaj na czym polega jego “poprawa”.",
+    "id": 20
+  },
+  {
+    "title": "Narysuj i omów schematy układów pomiaru mocy czynnej w obwodach 1 i 3-fazowych.",
+    "id": 21
+  },
+  {
+    "title": "Narysuj schemat zastępczy transformatora. Co reprezentują poszczególne elementy schematu?",
+    "id": 22
+  },
+  {
+    "title": "Przedstaw i omów metody rozruchu silników indukcyjnych.",
+    "id": 23
+  },
+  {
+    "title": "Przedstaw zasadę działania silnika indukcyjnego.",
+    "id": 24
+  },
+  {
+    "title": "Narysuj i omów schematy prądnicy oraz silnika bocznikowego prądu stałego (z nazwami uzwojeń) wraz z podstawowymi charakterystykami.",
+    "id": 25
+  },
+  {
+    "title": "Wymień rodzaje diod półprzewodnikowych. Narysuj charakterystyki I=f(U) oraz przedstaw podstawowe własności poszczególnych diod.",
+    "id": 26
+  },
+  {
+    "title": "Omów prawa Kirchhoffa dla obwodów elektrycznych na przykładach.",
+    "id": 27
+  },
+  {
+    "title": "Omów zasadę pomiaru rezystancji metodami: techniczną i mostkową.",
+    "id": 28
+  },
+  {
+    "title": "Omów topologię sieci rozdzielczej niskiego napięcia.",
+    "id": 29
+  },
+  {
+    "title": "Scharakteryzuj podstawowe właściwości elektryczne dielektryków i przewodników.",
+    "id": 30
+  },
+  {
+    "title": "Przedstaw mechanizmy inicjowania przeskoku w gazach i w próżni.",
+    "id": 31
+  },
+  {
+    "title": "Omów budowę, zasadę działania i zastosowanie iskierników i odgromników.",
+    "id": 32
+  },
+  {
+    "title": "Scharakteryzuj podstawowe wielkości występujące w obliczeniach prądów zwarciowych i przedstaw cel obliczania prądów zwarciowych.",
+    "id": 33
+  },
+  {
+    "title": "Omów budowę linii napowietrznych.",
+    "id": 34
+  },
+  {
+    "title": "Przedstaw definicję oraz scharakteryzuj parametry jakości energii elektrycznej.",
+    "id": 35
+  },
+  {
+    "title": "Co to jest algorytm programu i do czego służy? Podaj przykład prostego algorytmu iteracyjnego.",
+    "id": 36
+  },
+  {
+    "title": "Co to jest pętla programowa? Podaj przykład jej użycia.",
+    "id": 37
+  },
+  {
+    "title": "Wyjaśnij sens fizyczny wartości skutecznej natężenia prądu przemiennego oraz podaj sposób jej pomiaru.",
+    "id": 38
+  },
+  {
+    "title": "Zaproponuj i wyjaśnij sposoby pomiaru mocy biernej odbiornika jednofazowego oraz trójfazowego, zasilanego z sieci napięcia sinusoidalnego (jakie mierniki należy zastosować, narysuj schemat układu pomiarowego).",
+    "id": 39
+  },
+  {
+    "title": "Zaproponuj i wyjaśnij sposób pomiaru rezystancji uzwojenia jednofazowego transformatora separacyjnego niskiego napięcia (jakie mierniki lub dodatkowe urządzenia należy zastosować, narysuj schemat układu pomiarowego).",
+    "id": 40
+  },
+  {
+    "title": "Zaproponuj i wyjaśnij sposób pomiaru rezystancji dwójnika rezystancyjnego, gdy spodziewana jej wartość wynosi kilkaset kΩ (jakie mierniki lub dodatkowe urządzenia należy zastosować, narysuj schemat układu pomiarowego). Zaproponuj i wyjaśnij sposób pomiaru indukcyjności cewki (jakie mierniki lub dodatkowe urządzenia należy zastosować, narysuj schemat układu pomiarowego).",
+    "id": 41
+  },
+  {
+    "title": "Zaproponuj i wyjaśnij sposób pomiaru pojemności kondensatora (jakie mierniki lub dodatkowe urządzenia należy zastosować, narysuj schemat układu pomiarowego).",
+    "id": 42
+  },
+  {
+    "title": "Omów istotę sprzężeń magnetycznych w obwodach elektrycznych oraz wyjaśnij na przykładzie (np. transformatora dwuuzwojeniowego) sposób analizy tego typu obwodów elektrycznych.",
+    "id": 43
+  },
+  {
+    "title": "Wyjaśnij zjawisko rezonansu w obwodach elektrycznych. Na przykładzie omów sposoby wprowadzenia obwodu w stan rezonansu i fizycznie zinterpretuj ten stan pracy obwodu.",
+    "id": 44
+  },
+  {
+    "title": "Podaj definicję harmonicznej napięcia. Jakie są miary oceny wyższych harmonicznych w przebiegach czasowych napięć w obwodach elektrycznych? Omów sposób analizy obwodów elektrycznych z przebiegami odkształconymi.",
+    "id": 45
+  },
+  {
+    "title": "Wyjaśnij znaczenie fizyczne składowych symetrycznych w obwodach trójfazowych oraz na przykładzie omów ich zastosowanie.",
+    "id": 46
+  },
+  {
+    "title": "Wyjaśnij fizyczne podstawy histerezy magnetycznej oraz omów wpływ tego zjawiska na pracę wybranych urządzeń elektrycznych (np. jednofazowego transformatora dwuuzwojeniowego).",
+    "id": 47
+  },
+  {
+    "title": "Wyjaśnij znaczenie fizyczne zespolonych wartości: impedancji, natężenia prądu, napięcia i mocy. Podaj podstawowe zależności wiążące matematycznie podane wielkości fizyczne.",
+    "id": 48
+  },
+  {
+    "title": "Podaj definicję mocy i energii w obwodach elektrycznych. Wyjaśnij praktyczne zastosowanie tych pojęć. Na przykładzie, dokonaj interpretacji fizycznej mocy i energii elektrycznej.",
+    "id": 49
+  },
+  {
+    "title": "Omów metodę różniczki zupełnej i sposób szacowania błędów pomiarów pośrednich.",
+    "id": 50
+  },
+  {
+    "title": "Wyjaśnij celowość wykonywania pomiarów wielokrotnych w warunkach powtarzalności.",
+    "id": 51
+  },
+  {
+    "title": "Omów sposób poszerzania zakresów prądowych i napięciowych przyrządów pomiarowych prądu stałego i zmiennego.",
+    "id": 52
+  },
+  {
+    "title": "Wyjaśnij sposób sprawdzania przyrządów pomiarowych (wyznaczanie błędów podstawowych i błędów dodatkowych).",
+    "id": 53
+  },
+  {
+    "title": "Scharakteryzuj rezystor jako element obwodu elektrycznego (uwzględnij: symbol i schemat zastępczy rezystora z pasożytniczymi wielkościami fizycznymi).",
+    "id": 54
+  },
+  {
+    "title": "Scharakteryzuj kondensator jako element obwodu elektrycznego (uwzględnij: symbol i schemat zastępczy kondensatora z pasożytniczymi wielkościami fizycznymi).",
+    "id": 55
+  },
+  {
+    "title": "Scharakteryzuj cewkę indukcyjną jako element obwodu elektrycznego (uwzględnij: symbol i schemat zastępczy cewki z pasożytniczymi wielkościami fizycznymi).",
+    "id": 56
+  },
+  {
+    "title": "Narysuj rodzinę charakterystyk wyjściowych tranzystora bipolarnego dla różnych prądów bazy. Omów podstawowe parametry tego tranzystora. Podaj uproszczoną zależność na wartość prądu kolektora w funkcji współczynnika wzmocnienia prądowego.",
+    "id": 57
+  },
+  {
+    "title": "Narysuj rodzinę charakterystyk wyjściowych tranzystora MOSFET z kanałem typu N dla różnych napięć bramka-emiter. Wyjaśnij pojęcie obszaru bezpiecznej pracy (SOA).",
+    "id": 58
+  },
+  {
+    "title": "Wymień podstawowe parametry wzmacniaczy operacyjnych. Wymień cechy idealnego wzmacniacza operacyjnego.",
+    "id": 59
+  },
+  {
+    "title": "Narysuj schemat ilustrujący przykładową realizację regulatora z zastosowaniem wzmacniacza operacyjnego: a) regulatora P, b) regulatora PI, c) regulatora PID. Podaj zależności opisujące te regulatory.",
+    "id": 60
+  },
+  {
+    "title": "Narysuj schematy i omów działanie stabilizatorów napięcia z zastosowaniem diody Zenera:z tranzystorem w układzie wtórnika emiterowego, b) z tranzystorem w układzie wtórnika emiterowego i z wzmacniaczem operacyjnym.",
+    "id": 61
+  },
+  {
+    "title": "Narysuj schematy typowych zasilaczy małej mocy ze stabilizatorami liniowymi: a) z jednym napięciem wyjściowym, b) z dwoma napięciami wyjściowymi, symetrycznymi. Omów działanie tych układów.",
+    "id": 62
+  },
+  {
+    "title": "Jakie są różnice między układami cyfrowymi: a) kombinacyjnymi a sekwencyjnymi?",
+    "id": 63
+  },
+  {
+    "title": "b) synchronicznymi a asynchronicznymi?",
+    "id": 64
+  },
+  {
+    "title": "Narysuj symbole bramek: AND, NAND, OR, NOR, XOR. Podaj tabele stanów dla bramek dwuwejściowych.",
+    "id": 65
+  },
+  {
+    "title": "Podaj nazwy elementów, z których zbudowane są obwody mocy przekształtników energoelektronicznych. Dokonaj klasyfikacji elementów półprzewodnikowych mocy ze względu na ich sposób sterowania. Omów podstawowe parametry tych elementów",
+    "id": 66
+  },
+  {
+    "title": "Sklasyfikuj przekształtniki energoelektroniczne. Narysuj przykładowe przebiegi napięć (lub prądów) wejściowych i wyjściowych.",
+    "id": 67
+  },
+  {
+    "title": "Podaj zależność ogólną, definiującą współczynnik mocy (PF). Od czego zależy współczynnik mocy przekształtnika?",
+    "id": 68
+  },
+  {
+    "title": "Narysuj schemat 1-fazowego sterownika mocy prądu przemiennego oraz przebiegi napięcia i prądu odbiornika RL. Narysuj charakterystykę napięcia skutecznego na odbiorniku RL w funkcji kąta opóźnienia załączania tyrystorów. Gdzie stosowane są 1- i 3-fazowe sterowniki mocy?",
+    "id": 69
+  },
+  {
+    "title": "Narysuj schemat prostownika niesterowanego jednopulsowego, obciążonego szeregowym obwodem RL, zawierającego tzw. „diodę zerową”. Narysuj przebiegi czasowe napięcia na odbiorniku oraz prądów odbiornika i poszczególnych diod.",
+    "id": 70
+  },
+  {
+    "title": "Wymień rodzaje prostowników, dla których prąd wejściowy płynie: a) w jednym kierunku, b) w dwóch kierunkach. Scharakteryzuj te prostowniki.",
+    "id": 71
+  },
+  {
+    "title": "Narysuj charakterystykę Ud = f(a) dla prostownika tyrystorowego przy założeniu ciągłego prądu odbiornika. Co oznacza symbol Udo? Od czego zależy wartość tego napięcia (podaj wzór lub przykładowe wartości dla kilku typów prostowników).",
+    "id": 72
+  },
+  {
+    "title": "Narysuj schemat i omów działanie prostownika tyrystorowego mostkowego, dwupulsowego. Podaj zależność określającą wartość napięcia wyjściowego. Narysuj przebiegi czasowe napięć i prądów na wejściu oraz na wyjściu prostownika (dla założonego kąta opóźnienia załączania tyrystorów).",
+    "id": 73
+  },
+  {
+    "title": "Narysuj schemat i omów działanie prostownika tyrystorowego mostkowego, sześciopulsowego. Podaj zależność określającą wartość napięcia wyjściowego. Narysuj przebiegi czasowe (dla założonego kąta opóźnienia załączania tyrystorów): napięć i prądów na wejściu oraz na wyjściu prostownika.",
+    "id": 74
+  },
+  {
+    "title": "Narysuj schemat i omów działanie prostownika tyrystorowego dwufazowego, dwupulsowego.",
+    "id": 75
+  },
+  {
+    "title": "Podaj zależność określającą wartość napięcia wyjściowego. Narysuj przebiegi czasowe napięć i prądów na wejściu oraz na wyjściu prostownika (dla założonego kąta opóźnienia załączania tyrystorów).",
+    "id": 76
+  },
+  {
+    "title": "Narysuj schemat i omów działanie prostownika tyrystorowego trójfazowego, trójpulsowego.",
+    "id": 77
+  },
+  {
+    "title": "Podaj zależność określającą wartość napięcia wyjściowego. Narysuj przebiegi czasowe napięć i prądów na wejściu oraz na wyjściu prostownika (dla założonego kąta opóźnienia załączania tyrystorów).",
+    "id": 78
+  },
+  {
+    "title": "Narysuj schemat i omów działanie prostownika tyrystorowego sześciofazowego, sześciopulsowego. Podaj zależność określającą wartość napięcia wyjściowego.",
+    "id": 79
+  },
+  {
+    "title": "Wyjaśnij, dla którego z prostowników, transformator prostownikowy powinien być najbardziej przewymiarowany, a dla którego najmniej?",
+    "id": 80
+  },
+  {
+    "title": "Wyjaśnij zjawisko pracy falownikowej prostownika sterowanego (czym jest praca falownikowa i kiedy może wystąpić). Narysuj schemat i przebiegi czasowe prądów i napięć prostownika trójpulsowego w pracy falownikowej.",
+    "id": 81
+  },
+  {
+    "title": "Podaj zależność określającą rzędy harmonicznych prądów występujących na wejściu prostownika q‑pulsowego.",
+    "id": 82
+  },
+  {
+    "title": "Narysuj schemat beztransformatorowego przekształtnika DC/DC (przerywacza) obniżającego napięcie.",
+    "id": 83
+  },
+  {
+    "title": "Narysuj przebiegi czasowe napięć i prądów w układzie. Wyznacz lub podaj zależność na wartość napięcia wyjściowego. Gdzie stosowane są takie przekształtniki?",
+    "id": 84
+  },
+  {
+    "title": "Narysuj schemat beztransformatorowego przekształtnika DC/DC (przerywacza) podwyższającego napięcie. Narysuj przebiegi czasowe napięć i prądów w układzie. Wyznacz lub podaj zależność na wartość napięcia wyjściowego. Gdzie stosowane są takie przekształtniki?",
+    "id": 85
+  },
+  {
+    "title": "Narysuj schemat beztransformatorowego przekształtnika DC/DC (przerywacza) obniżająco-podwyższającego napięcie. Narysuj przebiegi czasowe napięć i prądów w układzie. Wyznacz lub podaj zależność na wartość napięcia wyjściowego. Gdzie stosowane są takie przekształtniki?",
+    "id": 86
+  },
+  {
+    "title": "Omów klasyfikacje falowników. Gdzie mają zastosowanie poszczególne rodzaje falowników?",
+    "id": 87
+  },
+  {
+    "title": "Narysuj schemat 1-fazowego tyrystorowego falownika prądu o komutacji równoległej",
+    "id": 88
+  },
+  {
+    "title": "oraz wybrane przebiegi prądów i napięć w tym układzie. Gdzie mają zastosowanie takie falowniki?",
+    "id": 89
+  },
+  {
+    "title": "Narysuj schemat 1-fazowego tyrystorowego falownika napięcia o komutacji szeregowej oraz wybrane przebiegi prądów i napięć w tym układzie. Gdzie mają zastosowanie takie falowniki?",
+    "id": 90
+  },
+  {
+    "title": "Narysuj schemat jednofazowego falownika napięciowego (półmostek lub pełny mostek) z modulatorem szerokości impulsów (ang. PWM). Dla podanego współczynnika głębokości modulacji narysuj przebieg fali modulującej i fali nośnej oraz wynikające z nich przebiegi napięcia i prądu obciążenia.",
+    "id": 91
+  },
+  {
+    "title": "Narysuj schemat 3-fazowego tranzystorowego falownika napięcia. Na czym polega modulacja sinusoidalna MSI (ang. PWM)? Gdzie ma zastosowanie ten rodzaj falownika?",
+    "id": 92
+  },
+  {
+    "title": "Narysuj schemat przemiennika częstotliwości z 3-fazowym prostownikiem niesterowanym oraz 3‑fazowym tranzystorowym falownikiem napięcia. Gdzie ma zastosowanie ten rodzaj przemiennika częstotliwości?",
+    "id": 93
+  },
+  {
+    "title": "Narysuj schemat obwodu mocy przemiennika częstotliwości (z pośrednim obwodem napięcia stałego) do sterowania pracą silnika klatkowego. Wyjaśnij, na czym polega hamowanie silnikiem klatkowym przy użyciu rezystora hamującego w obwodzie DC przekształtnika.",
+    "id": 94
+  },
+  {
+    "title": "Omów rolę przekształtników energoelektronicznych spełniających funkcje sprzęgów między systemami elektroenergetycznymi. Podaj przykład takiego przekształtnika. Co oznacza skrót HVDC? Czy tego typu układy występują w krajowym systemie elektroenergetycznym?",
+    "id": 95
+  },
+  {
+    "title": "Wskaż relacje między wartościami charakterystycznymi dla przebiegów sinusoidalnych a wartościami opisującymi wskazy.",
+    "id": 96
+  },
+  {
+    "title": "Omów budowę, zasadę działania oraz charakterystyki typowego, instalacyjnego wyłącznika nadprądowego.",
+    "id": 97
+  },
+  {
+    "title": "Wyjaśnij różnice pomiędzy pojęciami ,,regulacja” a ,,sterowanie”. Co oznacza pojęcie ,,uchyb regulacji”?",
+    "id": 98
+  },
+  {
+    "title": "Wymień wady i zalety stosowania przemienników częstotliwości do rozruchu silników indukcyjnych klatkowych (uzasadnij zastosowanie softstartu).",
+    "id": 99
+  },
+  {
+    "title": "Wymień i omów podstawowe sposoby regulacji prędkości obrotowej silników indukcyjnych.",
+    "id": 100
+  },
+  {
+    "title": "Omów regeneracyjny (ze zwrotem energii do sieci) sposób hamowania silnika indukcyjnego z wykorzystaniem układu przekształtnikowego.",
+    "id": 101
+  },
+  {
+    "title": "Co to jest napięcie zwarcia transformatora i w jaki sposób jest wyznaczane?",
+    "id": 102
+  },
+  {
+    "title": "Podaj wzór na sprawność transformatora. W jakim przypadku transformator posiada największą sprawność?",
+    "id": 103
+  },
+  {
+    "title": "Wymień i scharakteryzuj rodzaje pracy maszyn elektrycznych.",
+    "id": 104
+  },
+  {
+    "title": "Na przykładzie żelazka, omów budowę i działanie układu automatycznej regulacji temperatury z regulatorem dwupołożeniowym z histerezą.",
+    "id": 105
+  },
+  {
+    "title": "Omów budowę i działanie układu automatycznej regulacji poziomu cieczy w zbiorniku, gdy regulator, sterujący prędkością obrotową pompy i jej wydajnością, ma charakter proporcjonalny (P).",
+    "id": 106
+  },
+  {
+    "title": "Omów budowę i działanie regulatora trójstanowego. Podaj przykład zastosowania.",
+    "id": 107
+  },
+  {
+    "title": "Naszkicuj i omów schemat blokowy układu regulacji prędkości obrotowej wału obcowzbudnego silnika prądu stałego z podporządkowanym regulatorem prądu twornika.",
+    "id": 108
+  },
+  {
+    "title": "Zdefiniuj pojęcie „astatyczny układ regulacji”. Podaj przykład takiego układu.",
+    "id": 109
+  },
+  {
+    "title": "Naszkicuj przykładowe przebiegi uchybu regulacji wywołane skokową zmianą wartości sygnału zadającego dla typowego układu regulacji automatycznej wykorzystującego ujemne sprzężenie zwrotne obwodzące regulator szeregowo połączony z obiektem.",
+    "id": 110
+  },
+  {
+    "title": "Wymień i omów kryteria oceny jakości układów regulacji.",
+    "id": 111
+  },
+  {
+    "title": "Co oznacza stabilność układu automatycznej regulacji i jak się ją bada przy wykorzystaniu kryterium Nyquista?",
+    "id": 112
+  },
+  {
+    "title": "Omów zapas stabilności dla układu z regulacją automatyczną na podstawie naszkicowanej charakterystyki amplitudowo-fazowej i wskaż na takim szkicu istniejący zapas amplitudy i zapas fazy.",
+    "id": 113
+  },
+  {
+    "title": "Omów mechanizmy przebicia dielektryków stałych.",
+    "id": 114
+  },
+  {
+    "title": "Omów wyładowania elektryczne w cieczach.",
+    "id": 115
+  },
+  {
+    "title": "Przedstaw środki ochrony odgromowej stosowane w liniach i stacjach elektroenergetycznych.",
+    "id": 116
+  },
+  {
+    "title": "Omów budowę oraz funkcjonowanie stacji elektroenergetycznej 110 kV typu H.",
+    "id": 117
+  },
+  {
+    "title": "Omów budowę stacji elektroenergetycznej 15 kV.",
+    "id": 118
+  },
+  {
+    "title": "Przedstaw przykładowe przebiegi czasowe wymuszenia i odpowiedzi dla kondensatora oraz cewki indukcyjnej przy niesinusoidalnym wymuszeniu.",
+    "id": 119
+  },
+  {
+    "title": "Omów istotę i cel stosowania transformaty Laplace’a.",
+    "id": 120
+  },
+  {
+    "title": "Omów wybraną przez komisję egzaminacyjną metodę analizy obwodów liniowych (oczkowa, potencjałów węzłowych, Nortona)",
+    "id": 121
+  },
+  {
+    "title": "Wymień i scharakteryzuj minimum dwa protokoły i dwa interfejsy komunikacyjne.",
+    "id": 122
+  },
+  {
+    "title": "Omów budowę i podstawowe charakterystyki prądnic synchronicznych stosowanych w energetyce (turbogeneratory, hydrogeneratory).",
+    "id": 123
+  },
+  {
+    "title": "Omów budowę systemu przerwań dla wybranego mikrosterownika. Jaka jest rola stosu w przypadku wywołania podprogramu obsługi przerwania?",
+    "id": 124
+  },
+  {
+    "title": "Na przykładzie napięcia sieciowego 230V narysuj i omów jego postać czasową i częstotliwościową.",
+    "id": 125
+  },
+  {
+    "title": "Co to jest i do czego służy Dyskretna Transformata Fouriera?",
+    "id": 126
+  },
+  {
+    "title": "Omów zasadę działania przetwornika analogowo-cyfrowego z podwójnym całkowaniem.",
+    "id": 127
+  }
+]

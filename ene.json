@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Wymień uczestników rynku energii elektrycznej.",
+    "id": 1
+  },
+  {
+    "title": "Rola Urzędu Regulacji Energetyki (URE) w funkcjonowaniu rynku energii.",
+    "id": 2
+  },
+  {
+    "title": "Omów wpływ magazynów energii na funkcjonowanie sieci i systemów elektroenergetycznych.",
+    "id": 3
+  },
+  {
+    "title": "Omów budowę, parametry i przeznaczenie przekładników prądowych.",
+    "id": 4
+  },
+  {
+    "title": "Omów układy połączeń przekładników prądowych i ich przeznaczenie.",
+    "id": 5
+  },
+  {
+    "title": "Przedstaw rodzaje i schematy układów rozliczeniowych spotykanych u odbiorców energii elektrycznej.",
+    "id": 6
+  },
+  {
+    "title": "Omów charakterystyczne cykliczności zauważane w procesach zapotrzebowania energii elektrycznej przez odbiorców o różnym charakterze.",
+    "id": 7
+  },
+  {
+    "title": "Wymień rodzaje strat mocy, których wartości można znaleźć na tabliczce znamionowej transformatorów energetycznych. Podaj przyczyny ich powstawania.",
+    "id": 8
+  },
+  {
+    "title": "Wymień rodzaje i sposoby kompensacji mocy biernej w sieciach przemysłowych. Scharakteryzuj ich zalety i wady.",
+    "id": 9
+  },
+  {
+    "title": "Omów przeznaczenie przekaźników pomiarowych i pomocniczych, wykorzystywanych w elektroenergetycznej automatyce zabezpieczeniowej.",
+    "id": 10
+  },
+  {
+    "title": "Co oznacza wymóg selektywnego (wybiórczego) działania zabezpieczeń w instalacjach i sieciach elektroenergetycznych?",
+    "id": 11
+  },
+  {
+    "title": "Podaj przyczyny i sposoby oddziaływania na procesy zapotrzebowania mocy przez różnych odbiorców energii elektrycznej.",
+    "id": 12
+  },
+  {
+    "title": "Scharakteryzuj rodzaje taryf za energię elektryczną i zasady ich przypisania różnym odbiorcom.",
+    "id": 13
+  },
+  {
+    "title": "Wymień i scharakteryzuj zagrożenia ze strony obiektów energetycznych dla ich otoczenia.",
+    "id": 14
+  },
+  {
+    "title": "Wymień i opisz matematycznie przykładowe wskaźniki efektywnościowe.",
+    "id": 15
+  },
+  {
+    "title": "Omów segmenty z jakich składa się Rynek energii w Polsce. W jakich segmentach jest on konkurencyjny a w jakich jest monopolem regulowanym?",
+    "id": 16
+  },
+  {
+    "title": "Omów typy rynków konkurencyjnych w Europie.",
+    "id": 17
+  },
+  {
+    "title": "Wyjaśnij pojęcie energii pierwotnej, końcowej i użytkowej.",
+    "id": 18
+  },
+  {
+    "title": "Co to jest zarządzanie energią? Scharakteryzuj główne zadania zarządzającego energią w przedsiębiorstwie?",
+    "id": 19
+  },
+  {
+    "title": "Wyjaśnij na czym polega sterowanie, regulacja i kompensacja w systemach technicznych?",
+    "id": 20
+  },
+  {
+    "title": "Omów różnice jakie występują między monitorowaniem czynnym i biernym dowolnego systemu technicznego funkcjonującego w otoczeniu?",
+    "id": 21
+  },
+  {
+    "title": "Omów na czym polega efekt fotowoltaiczny wewnętrzny? Narysuj i omów przykładowy schemat systemu fotowoltaicznego.",
+    "id": 22
+  },
+  {
+    "title": "W jaki sposób oblicza się sprawność modułu fotowoltaicznego? Omów w jaki sposób sprawność modułu PV zależy od temperatury?",
+    "id": 23
+  },
+  {
+    "title": "Jakie parametry techniczne opisują elektrownie wodne? Od czego zależy moc turbiny wodnej i według jakiej zależności matematycznej jest ona obliczana?",
+    "id": 24
+  },
+  {
+    "title": "Jakie parametry techniczne opisują elektrownie wiatrowe? Od czego zależy moc turbiny wiatrowej i według jakiej zależności matematycznej jest ona obliczana?",
+    "id": 25
+  },
+  {
+    "title": "Jakie warunki muszą być spełnione, aby można było przyłączyć źródło energii do sieci elektroenergetycznej? Kto wydaje takie warunki?",
+    "id": 26
+  },
+  {
+    "title": "Jakie znasz sposoby wykorzystania energii zgromadzonej w biomasie?",
+    "id": 27
+  },
+  {
+    "title": "Jaki wpływ na pracę sieci elektroenergetycznej ma podłączenie źródeł energii?",
+    "id": 28
+  },
+  {
+    "title": "Narysuj schemat blokowy i opisz podstawowe elementy otwartego obiegu cieplnego z turbiną gazową.",
+    "id": 29
+  },
+  {
+    "title": "Co to jest przemiana energetyczna i na czym polega jej bilansowanie?",
+    "id": 30
+  },
+  {
+    "title": "Omów bezpośredni pomiar mocy czynnej i energii.",
+    "id": 31
+  },
+  {
+    "title": "Omów półpośredni pomiar mocy czynnej i energii.",
+    "id": 32
+  },
+  {
+    "title": "Omów pośredni pomiar mocy czynnej i energii.",
+    "id": 33
+  },
+  {
+    "title": "Co to jest i jak definiuje się jakość energii elektrycznej?",
+    "id": 34
+  },
+  {
+    "title": "Co to są harmoniczne napięcia lub prądu?",
+    "id": 35
+  },
+  {
+    "title": "Co to jest i do czego służy współczynnik zawartości harmonicznych?",
+    "id": 36
+  },
+  {
+    "title": "Podaj jego praktyczne znaczenie.",
+    "id": 37
+  },
+  {
+    "title": "Podaj definicję mocy i energii. Wyjaśnij praktyczne zastosowanie tych pojęć. Na przykładzie dokonaj interpretacji fizycznej mocy i energii.",
+    "id": 38
+  },
+  {
+    "title": "Podaj definicję źródła energii odnawialnej. Wyjaśnij fizyczne podstawy istoty odnawiania energii.",
+    "id": 39
+  },
+  {
+    "title": "Na przykładzie scharakteryzuj fizycznie przemiany energii.",
+    "id": 40
+  },
+  {
+    "title": "Podaj definicję układu kogeneracyjnego wytwarzania energii. Wyjaśnij fizycznie w jaki sposób działa przykładowy układ kogeneracyjny.",
+    "id": 41
+  },
+  {
+    "title": "Omów ideę prosumenta energii. Podaj przykład wdrożenia tej idei w Polsce.",
+    "id": 42
+  },
+  {
+    "title": "Na przykładzie omów budowę i działanie mikroinstalacji prosumenckiej.",
+    "id": 43
+  },
+  {
+    "title": "Wyjaśnij procesy fizyczne będące podstawą magazynowania energii. Na przykładzie omów układ energetyczny z magazynem energii.",
+    "id": 44
+  },
+  {
+    "title": "Co to jest efektywność energetyczna? Podaj i objaśnij na przykładzie miary efektywności energetycznej.",
+    "id": 45
+  },
+  {
+    "title": "Na czym polega idea “pompowania ciepła”. Wyjaśnij zjawiska fizyczne zachodzące w przykładowej pompie ciepła.",
+    "id": 46
+  },
+  {
+    "title": "Omów ideę rozproszonej generacji energii. Scharakteryzuj wady i zalety tego typu generacji energii.",
+    "id": 47
+  },
+  {
+    "title": "Podaj przykładową charakterystykę prądowo-napięciową ogniwa fotowoltaicznego.",
+    "id": 48
+  },
+  {
+    "title": "Wyjaśnij istotę działania metody Maximum Power Point Tracking (MPPT) dla przekształtnika PV.",
+    "id": 49
+  },
+  {
+    "title": "Podaj przykład rodziny charakterystyk mocy od prędkości obrotowej wirnika P(ω) turbiny wiatrowej dla różnych prędkości wiatru.",
+    "id": 50
+  },
+  {
+    "title": "Co to jest napięcie zwarcia transformatora i w jaki sposób jest wyznaczane?",
+    "id": 51
+  },
+  {
+    "title": "Podaj i omów wzór na sprawność transformatora. W jakim przypadku transformator posiada największą sprawność?",
+    "id": 52
+  },
+  {
+    "title": "Wymień i scharakteryzuj rodzaje pracy maszyn elektrycznych.",
+    "id": 53
+  },
+  {
+    "title": "Przedstaw i omów metody rozruchu silników indukcyjnych.",
+    "id": 54
+  },
+  {
+    "title": "Przedstaw zasadę działania silnika indukcyjnego.",
+    "id": 55
+  },
+  {
+    "title": "Przedstaw i omów sposoby regulacji prędkości obrotowej silników indukcyjnych.",
+    "id": 56
+  },
+  {
+    "title": "Narysuj schematy i omów działanie stabilizatorów napięcia z zastosowaniem diody Zenera: a) z tranzystorem w układzie wtórnika emiterowego, b) z tranzystorem w układzie wtórnika emiterowego i z wzmacniaczem operacyjnym.",
+    "id": 57
+  },
+  {
+    "title": "Narysuj schematy typowych zasilaczy małej mocy ze stabilizatorami liniowymi: a) z jednym napięciem wyjściowym, b) z dwoma napięciami wyjściowymi, symetrycznymi. Omów działanie tych układów.",
+    "id": 58
+  },
+  {
+    "title": "Jakie są różnice między układami cyfrowymi: a) kombinacyjnymi a sekwencyjnymi?",
+    "id": 59
+  },
+  {
+    "title": "b) synchronicznymi a asynchronicznymi?",
+    "id": 60
+  },
+  {
+    "title": "Narysuj symbole bramek: AND, NAND, OR, NOR, XOR. Podaj tabele stanów dla bramek dwuwejściowych.",
+    "id": 61
+  },
+  {
+    "title": "Podaj nazwy elementów, z których zbudowane są obwody mocy przekształtników energoelektronicznych. Dokonaj klasyfikacji elementów półprzewodnikowych mocy ze względu na ich sposób sterowania. Omów podstawowe parametry tych elementów",
+    "id": 62
+  },
+  {
+    "title": "Sklasyfikuj przekształtniki energoelektroniczne. Narysuj przykładowe przebiegi napięć (lub prądów) wejściowych i wyjściowych.",
+    "id": 63
+  },
+  {
+    "title": "Na przykładzie żelazka, omów budowę i działanie układu automatycznej regulacji temperatury z regulatorem dwupołożeniowym z histerezą.",
+    "id": 64
+  },
+  {
+    "title": "Omów budowę i działanie układu automatycznej regulacji poziomu cieczy w zbiorniku, gdy regulator, sterujący prędkością obrotową pompy i jej wydajnością, ma charakter proporcjonalny (P).",
+    "id": 65
+  },
+  {
+    "title": "Omów budowę i działanie regulatora trójstanowego. Podaj przykład zastosowania.",
+    "id": 66
+  },
+  {
+    "title": "Zdefiniuj pojęcie „astatyczny układ regulacji”. Podaj przykład takiego układu.",
+    "id": 67
+  },
+  {
+    "title": "Naszkicuj przykładowe przebiegi uchybu regulacji wywołane skokową zmianą wartości sygnału zadającego dla typowego układu regulacji automatycznej wykorzystującego ujemne sprzężenie zwrotne obwodzące regulator szeregowo połączony z obiektem.",
+    "id": 68
+  },
+  {
+    "title": "Wymień i omów kryteria oceny jakości układów regulacji.",
+    "id": 69
+  },
+  {
+    "title": "Co oznacza stabilność układu automatycznej regulacji i jak się ją bada przy wykorzystaniu kryterium Nyquista?",
+    "id": 70
+  },
+  {
+    "title": "Omów zapas stabilności dla układu z regulacją automatyczną na podstawie naszkicowanej charakterystyki amplitudowo-fazowej i wskaż na takim szkicu istniejący zapas amplitudy i zapas fazy.",
+    "id": 71
+  },
+  {
+    "title": "Omów mechanizmy przebicia dielektryków stałych.",
+    "id": 72
+  },
+  {
+    "title": "Omów wyładowania elektryczne w cieczach.",
+    "id": 73
+  },
+  {
+    "title": "Przedstaw środki ochrony odgromowej stosowane w liniach i stacjach elektroenergetycznych.",
+    "id": 74
+  },
+  {
+    "title": "Omów budowę stacji elektroenergetycznej 110 kV typu H.",
+    "id": 75
+  },
+  {
+    "title": "Wymień warstwy inżynierii efektywności energetycznej.",
+    "id": 76
+  },
+  {
+    "title": "Co to jest formalna efektywność działania?",
+    "id": 77
+  },
+  {
+    "title": "Co to jest efektywność wskaźnikowa?",
+    "id": 78
+  },
+  {
+    "title": "Co obejmuje bilansowe równanie działania?",
+    "id": 79
+  },
+  {
+    "title": "Jakie są cele ustawy o efektywności energetycznej?",
+    "id": 80
+  },
+  {
+    "title": "Przedstaw podstawowe prawa mechaniki i omów jedno z nich (wskazane przez komisję egzaminacyjną).",
+    "id": 81
+  },
+  {
+    "title": "Wyjaśnij zjawisko tarcia i przedstaw prawa z nim związane.",
+    "id": 82
+  },
+  {
+    "title": "Omów prawo Hooke’a.",
+    "id": 83
+  },
+  {
+    "title": "Omów ruch postępowy i obrotowy ciała sztywnego.",
+    "id": 84
+  },
+  {
+    "title": "Przedstaw zasadę d’Alemberta.",
+    "id": 85
+  },
+  {
+    "title": "Omów obieg Rankine’a.",
+    "id": 86
+  },
+  {
+    "title": "Omów pracę szeregową i równoległą pomp. Przedstaw różnice.",
+    "id": 87
+  },
+  {
+    "title": "Wymień i omów podstawowe rodzaje przepływów w mechanice płynów.",
+    "id": 88
+  },
+  {
+    "title": "Przedstaw i omów równanie Eulera w formie Lamba-Gromeki. Co opisuje to równanie?",
+    "id": 89
+  },
+  {
+    "title": "Omów straty hydrauliczne wywołane oporami miejscowymi.",
+    "id": 90
+  },
+  {
+    "title": "Co to jest wytrzymałość elektryczna i od czego zależy? Ile wynosi wytrzymałość elektryczna dla powietrza, jak zmienia się ta wytrzymałość w zależności od ciśnienia?",
+    "id": 91
+  },
+  {
+    "title": "Omów prawo Joule’a-Lenza i na przykładzie przedstaw jego praktyczne zastosowanie.",
+    "id": 92
+  },
+  {
+    "title": "Co to jest entalpia?",
+    "id": 93
+  },
+  {
+    "title": "Scharakteryzuj podział wymienników ciepła ze względu na budowę i kierunek przepływu czynników.",
+    "id": 94
+  },
+  {
+    "title": "Jakie znasz możliwości zmniejszania strat energii elektrycznej w liniach elektorenergetycznych?",
+    "id": 95
+  },
+  {
+    "title": "Czym jest rezystywność elektryczna i konduktywność elektryczna? Jaka jest zależność pomiędzy tym dwoma wielkościami?",
+    "id": 96
+  },
+  {
+    "title": "Scharakteryzuj podział materiałów elektrotechnicznych ze względu na wartość rezystywności.",
+    "id": 97
+  }
+]

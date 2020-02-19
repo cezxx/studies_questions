@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Dioda prostownicza, dioda stabilizacyjna (zasada działania i parametry).",
+    "id": 1
+  },
+  {
+    "title": "Dioda pojemnościowa, dioda elektroluminescencyjna, fotodioda PIN (zasada działania i parametry).",
+    "id": 2
+  },
+  {
+    "title": "Laser półprzewodnikowy (zasada działania i parametry).",
+    "id": 3
+  },
+  {
+    "title": "Tranzystor bipolarny (zasada działania i parametry).",
+    "id": 4
+  },
+  {
+    "title": "Tranzystor polowy MOS, tranzystor TFT (zasada działania i parametry).",
+    "id": 5
+  },
+  {
+    "title": "Szybkie tranzystory HBT i MESFET (zasada działania i parametry).",
+    "id": 6
+  },
+  {
+    "title": "Wzmacniacz operacyjny – parametry i podstawowe zastosowania.",
+    "id": 7
+  },
+  {
+    "title": "Scalone stabilizatory napięcia – parametry charakteryzujące stabilizator i zasada działania.",
+    "id": 8
+  },
+  {
+    "title": "Charakterystyka bramek logicznych i rejestrów.",
+    "id": 9
+  },
+  {
+    "title": "Charakterystyka procesorów.",
+    "id": 10
+  },
+  {
+    "title": "Charakterystyka pamięci półprzewodnikowych.",
+    "id": 11
+  },
+  {
+    "title": "Wpływ ujemnego sprzężenia zwrotnego na działanie układów elektronicznych.",
+    "id": 12
+  },
+  {
+    "title": "Rola elektroniki w przetwarzaniu i przesyłaniu informacji, podział i klasyfikacja układów elektronicznych, układy scalone, kierunki rozwoju elektroniki.",
+    "id": 13
+  },
+  {
+    "title": "Wyjaśnić pojęcie dopasowania impedancyjnego i podać przykłady konieczności stosowania.",
+    "id": 14
+  },
+  {
+    "title": "Analogowe filtry aktywne oraz pasywne.",
+    "id": 15
+  },
+  {
+    "title": "Transformacje Fouriera (ciągła, dyskretna).",
+    "id": 16
+  },
+  {
+    "title": "Podstawowe metody kompresji (w tym kompresji obrazu i dźwięku) – podział, przykładowe zastosowania.",
+    "id": 17
+  },
+  {
+    "title": "Procesory DSP – parametry, zastosowanie.",
+    "id": 18
+  },
+  {
+    "title": "Zasada działania i rodzaje sztucznych sieci neuronowych.",
+    "id": 19
+  },
+  {
+    "title": "Sztuczne sieci neuronowe, wykorzystanie sieci neuronowych, metody realizacji, wykorzystanie sieci w naukach ścisłych i medycynie.",
+    "id": 20
+  },
+  {
+    "title": "Wybór parametrów modulacji delta.",
+    "id": 21
+  },
+  {
+    "title": "Przetwarzanie sygnału w standardzie PCM.",
+    "id": 22
+  },
+  {
+    "title": "Kody korekcyjne i detekcyjne.",
+    "id": 23
+  },
+  {
+    "title": "Pasmo przenoszenia toru transmisyjnego i szybkość transmisji danych.",
+    "id": 24
+  },
+  {
+    "title": "Media transmisyjne – charakterystyka.",
+    "id": 25
+  },
+  {
+    "title": "Techniki zwielokrotniania ilości przesyłanej informacji w łączu transmisyjnym.",
+    "id": 26
+  },
+  {
+    "title": "Modulacje cyfrowe, modulacje analogowe (charakterystyka i podstawowe parametry).",
+    "id": 27
+  },
+  {
+    "title": "Propagacja i parametry sygnału w mediach transmisyjnych.",
+    "id": 28
+  },
+  {
+    "title": "Łączność satelitarna (rodzaje systemów satelitarnych).",
+    "id": 29
+  },
+  {
+    "title": "Systemy GPS (zasada działania, implementacje).",
+    "id": 30
+  },
+  {
+    "title": "Model ISO/OSI (funkcje warstw, rola protokołów poszczególnych warstw, adresacja, elementy sieci).",
+    "id": 31
+  },
+  {
+    "title": "Jakość usług w sieciach przewodowych i bezprzewodowych (parametry, wyzwania, mechanizmy, modele gwarantowania).",
+    "id": 32
+  },
+  {
+    "title": "Struktura blokowa cyfrowego systemu telekomunikacyjnego – opis funkcji i właściwości poszczególnych bloków.",
+    "id": 33
+  },
+  {
+    "title": "Sieci szkieletowe (architektury, standardy/rozwiązania).",
+    "id": 34
+  },
+  {
+    "title": "Sieci dostępowe (architektury, standardy/rozwiązania).",
+    "id": 35
+  },
+  {
+    "title": "Zarządzanie sieciami (najważniejsze protokoły i ich specyfika, modele i metody zarządzania).",
+    "id": 36
+  },
+  {
+    "title": "Relacyjne modele danych. Charakterystyka relacyjnych baz danych",
+    "id": 37
+  },
+  {
+    "title": "Struktury danych, paradygmaty projektowania algorytmów, modele rozwiązywania problemów.",
+    "id": 38
+  },
+  {
+    "title": "Podstawowe konstrukcje języków algorytmicznych. Rekurencja i typy programów rekurencyjnych. Analiza sprawności algorytmów.",
+    "id": 39
+  },
+  {
+    "title": "Programowanie strukturalne i obiektowe.",
+    "id": 40
+  },
+  {
+    "title": "Algorytmy sortowania i wyszukiwania danych.",
+    "id": 41
+  },
+  {
+    "title": "Charakterystyka protokołów w sieci Internet, ochrona danych i uwierzytelnianie w Internecie.",
+    "id": 42
+  },
+  {
+    "title": "Zagrożenia w systemach telekomunikacyjnych i sieciach teleinformatycznych (metody ochrony).",
+    "id": 43
+  },
+  {
+    "title": "Usługa VoIP – charakterystyka.",
+    "id": 44
+  },
+  {
+    "title": "Klasyfikacja bezprzewodowych systemów telekomunikacyjnych i teleinformatycznych ze względu na zasięg, stosowane technologie oraz mobilność.",
+    "id": 45
+  },
+  {
+    "title": "Klasyfikacja, budowa i teletransmisyjne parametry światłowodów jednomodowych oraz wielomodowych – standardy i specyfikacje.",
+    "id": 46
+  },
+  {
+    "title": "Pomiary wykonywane w sieciach światłowodowych: tłumieniowe, dyspersyjne oraz spektralne.",
+    "id": 47
+  },
+  {
+    "title": "Kody transmisyjne.",
+    "id": 48
+  },
+  {
+    "title": "Ogólne zasady budowy systemów cyfrowych PDH – ramka, wieloramka, synchronizacja, schemat blokowy uwzględniający część nadawczą, odbiorczą i trakt linowy z regeneratorami;",
+    "id": 49
+  },
+  {
+    "title": "Systemy SDH: zasady multipleksacji, synchronizacja, kontrola jakości transmisji, kontrola jakości transmisji w trakcie liniowym.",
+    "id": 50
+  }
+]
